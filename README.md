@@ -1,3 +1,7 @@
+> **Project Status: Inactive**
+>
+> This repository is no longer actively maintained and is being preserved for educational or historical reference.
+
 # Stellar ve Soroban ile Akıllı Sözleşme Bağış Projesi
 
 Bu proje, [Stellar](https://www.stellar.org/) ağı üzerinde [Soroban](https://developers.stellar.org/docs/build/smart-contracts) akıllı sözleşmeleri kullanılarak oluşturulmuş basit bir bağış platformu örneğidir.
